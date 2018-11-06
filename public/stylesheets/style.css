@@ -1,0 +1,17 @@
+body{
+    background: black;
+    color: greenyellow;
+}
+.list-group-item 
+{
+    background-color: cornsilk;
+    color: black;   
+}
+.btn
+{
+    background-color: darkred;
+    color: white;
+    padding: 15px;
+    width: 140px;
+    height: 50px;   
+}
